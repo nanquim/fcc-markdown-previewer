@@ -13,7 +13,7 @@
     "remark-gfm": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://nanquim.github.io/fcc-markdown-previewer/"
+  "homepage": "https://nanquim.github.io/fcc-markdown-previewer/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
